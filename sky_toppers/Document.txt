@@ -1,0 +1,21 @@
+Project title:
+ Helpmewiththemood
+
+project description
+A person’s emotions and moods have direct bearings on his/her daily activities. It is necessary to eliminate negative emotions that our family or friends might be experiencing, to help them lead a better life. Research has shown that social networking activity is a good source to gauge a person’s state of mind. Mood of a user is often reflected in his/her social content, like tweets, blogs, article, status updates, etc. Timely analysis of a user’s social media can be used to improve the feelings, and even save a person’s life in an extreme case! The proposed challenge is to know the emotion/mood of a person, to help in eliminating any negative state of mind that might have adverse effect on his/her daily life.
+
+Contents of the project
+1.final.py: Contain source code of application.
+2.ppt: https://prezi.com/view/hPfeiMW36TMVUywDb1Sb
+
+Ways to host the project on localhost
+
+We have created a standalone application but the size of that applictaion is greater than 25 MB,so we are unable to upload it here but we can show this to you.
+
+Process:
+Described in ppt.
+
+ 
+
+
+
